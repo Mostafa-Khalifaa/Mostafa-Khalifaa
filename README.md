@@ -10,9 +10,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, React.JS or anything related to Front-end web development.
+- 🎓 I'm a Computer Science & AI graduate from Pharos University
+- 💻 I'm passionate about front-end development and user experience
+- 🌱 Currently learning and building with React, Tailwind, and exploring new tools
+- 🧠 I love solving problems and building clean, responsive UIs
+- 💬 Ask me about anything related to React.js, JavaScript, or Front-End development
 
 
 ### Connect with Me :
@@ -36,7 +38,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Khalifa&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Khalifaa&layout=compact&theme=radical" alt="Top languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Mostafa-Khalifa&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mostafa-Khalifa&style=for-the-badge">
